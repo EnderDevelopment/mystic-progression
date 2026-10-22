@@ -1,0 +1,8 @@
+name: RPGPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  rpg:
+    description: RPG commands
+    usage: /rpg
